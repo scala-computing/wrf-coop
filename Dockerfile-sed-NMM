@@ -1,5 +1,5 @@
 #
-FROM davegill/wrf-coop:sixthtry
+FROM 858085030508.dkr.ecr.us-east-1.amazonaws.com/wrf-coop:sixthtry
 MAINTAINER Dave Gill <gill@ucar.edu>
 
 #	DO NOT CHANGE UNDERSCORE GIT STRINGS
